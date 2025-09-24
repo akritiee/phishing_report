@@ -9,7 +9,7 @@ The email claimed to be from `press@wikimedia.org`, but header and content analy
 - `README.md` → This file, explaining the project.  
 
 ## Steps Performed
-1. Saved the raw phishing email as `sample.eml`.  
+1. Saved the raw phishing email as `sample.email`.  
 2. Extracted and reviewed the headers (SPF, DKIM, DMARC, Received paths).  
 3. Extracted links from the body and compared displayed vs real URLs.  
 4. Checked for attachments (none found in this case).  
